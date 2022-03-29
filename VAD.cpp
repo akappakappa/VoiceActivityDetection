@@ -1,6 +1,6 @@
 /**
  * @file VAD.cpp
- * @author Andrea Valentinuzzi 1219617
+ * @author Andrea Valentinuzzi
  * @brief VAD namespace implementation file
  */
 #include "VAD.hpp"

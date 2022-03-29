@@ -1,6 +1,6 @@
 /**
  * @file VAD.hpp
- * @author Andrea Valentinuzzi 1219617
+ * @author Andrea Valentinuzzi
  * @brief VAD namespace header file
  */
 #ifndef VAD_HPP

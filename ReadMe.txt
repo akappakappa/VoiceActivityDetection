@@ -1,4 +1,4 @@
-Andrea Valentinuzzi 1219617
+Andrea Valentinuzzi
 
 INSTRUCTIONS:
 -# Set up the compiling environment for C++.

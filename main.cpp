@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Andrea Valentinuzzi 1219617
+ * @author Andrea Valentinuzzi
  * @brief Main file
  */
 #include "VAD.hpp"
