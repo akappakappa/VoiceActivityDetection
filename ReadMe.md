@@ -1,3 +1,8 @@
+### Voice Activity Detection (VAD)
+Given an input audio file, detect noise time-frames and set corresponding bytes to 0 to remove noise.
+
+---
+
 Andrea Valentinuzzi
 
 INSTRUCTIONS:
